@@ -22,21 +22,6 @@ Perfect for practicing UI/UX design and front-end development concepts.
 - **CSS3** – Styling & Layout
 - **JavaScript (JS)** – Interactivity
 
-## 📂 Project Structure
-
-```
-Casual-T-Shirt-Product-Page/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── front-view.png
-│   ├── side-view.png
-│   └── back-view.png
-└── README.md
-```
-
 ## 🎯 Purpose
 
 This project is created to practice:
