@@ -14,7 +14,7 @@ Perfect for practicing UI/UX design and front-end development concepts.
 - 📏 Size Selection
 - 🔢 Quantity Selector
 - 🛒 Buy Now Button
-- 📱 Fully Responsive Design
+- 📱 Only Desktop Responsive Design
 
 ## 🛠️ Tech Stack
 
